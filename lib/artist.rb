@@ -5,7 +5,7 @@ class Artist
     @name= name
 end
 end
-binding.pry
+#binding.pry
 
 class Author
   attr_accessor :name
